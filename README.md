@@ -12,4 +12,5 @@
 - Examine the principle of maximum likelihood
 - Evaluate the performance of estimator
 - Calculate confidence intervals
-- Able to fit and analyse models
+- Able to analyse regression datasets
+- Able to perform hypothesis testing
